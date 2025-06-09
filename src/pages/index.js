@@ -14,7 +14,6 @@ export default function Home() {
       {/* Intro Section */}
       <section className="p-10 text-center bg-gray-100">
         <h2 className="text-3xl font-semibold mb-4">Welcome to SmartLibrary</h2>
-        <p className="mb-6 max-w-xl mx-auto">Manage your library access with ease. Whether you're a student, librarian, or admin, our system helps you find, borrow, and organize books effortlessly.</p>
         <a href="#login-section" className="inline-block bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700">Get Started</a>
       </section>
 
